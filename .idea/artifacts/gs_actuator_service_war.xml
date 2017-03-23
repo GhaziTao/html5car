@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gs-actuator-service:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="gs-actuator-service-0.1.0.war">
+      <element id="artifact" artifact-name="gs-actuator-service:war exploded" />
+    </root>
+  </artifact>
+</component>
